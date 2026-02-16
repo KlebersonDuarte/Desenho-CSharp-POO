@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Dilson\\OneDrive\\\u00C1rea de Trabalho\\Backup\\Modulo 1\\PRL\\EX33_PRL_261125\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16412-F04B-4C19-A1E8-5FACEFDC1864}|EX33_PRL_261125\\EX33_PRL_261125.csproj|c:\\users\\dilson\\onedrive\\\u00E1rea de trabalho\\backup\\modulo 1\\prl\\ex33_prl_261125\\ex33_prl_261125\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{88C16412-F04B-4C19-A1E8-5FACEFDC1864}|EX33_PRL_261125\\EX33_PRL_261125.csproj|solutionrelative:ex33_prl_261125\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88C16412-F04B-4C19-A1E8-5FACEFDC1864}|EX33_PRL_261125\\EX33_PRL_261125.csproj|C:\\Users\\Dilson\\OneDrive\\\u00C1rea de Trabalho\\Backup\\Modulo 1\\PRL\\EX33_PRL_261125\\ex33_prl_261125\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88C16412-F04B-4C19-A1E8-5FACEFDC1864}|EX33_PRL_261125\\EX33_PRL_261125.csproj|solutionrelative:ex33_prl_261125\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Dilson\\OneDrive\\\u00C1rea de Trabalho\\Backup\\Modulo 1\\PRL\\EX33_PRL_261125\\EX33_PRL_261125\\Form1.cs",
+              "RelativeDocumentMoniker": "EX33_PRL_261125\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dilson\\OneDrive\\\u00C1rea de Trabalho\\Backup\\Modulo 1\\PRL\\EX33_PRL_261125\\EX33_PRL_261125\\Form1.cs",
+              "RelativeToolTip": "EX33_PRL_261125\\Form1.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAUwD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:30:48.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Dilson\\OneDrive\\\u00C1rea de Trabalho\\Backup\\Modulo 1\\PRL\\EX33_PRL_261125\\EX33_PRL_261125\\Form1.cs",
+              "RelativeDocumentMoniker": "EX33_PRL_261125\\Form1.cs",
+              "ToolTip": "C:\\Users\\Dilson\\OneDrive\\\u00C1rea de Trabalho\\Backup\\Modulo 1\\PRL\\EX33_PRL_261125\\EX33_PRL_261125\\Form1.cs [Design]",
+              "RelativeToolTip": "EX33_PRL_261125\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-26T17:16:50.492Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
